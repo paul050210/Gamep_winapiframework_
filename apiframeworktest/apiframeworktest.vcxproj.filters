@@ -184,6 +184,7 @@
     <ClInclude Include="SoundMgr.h">
       <Filter>Engine\03. Manager\SoundMgr</Filter>
     </ClInclude>
+    <ClInclude Include="Money.h" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="apiframeworktest.rc">
@@ -278,5 +279,6 @@
     <ClCompile Include="SoundMgr.cpp">
       <Filter>Engine\03. Manager\SoundMgr</Filter>
     </ClCompile>
+    <ClCompile Include="Money.cpp" />
   </ItemGroup>
 </Project>
